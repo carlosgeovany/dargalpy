@@ -1,6 +1,6 @@
 import sys
 import click
-from dargalpy import run_process
+from dargalpy.dargalpy import run_process
 
 
 @click.group()

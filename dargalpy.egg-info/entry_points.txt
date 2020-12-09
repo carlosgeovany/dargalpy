@@ -1,4 +1,4 @@
 
         [console_scripts]
-        dargalpy=dargal.__main__:main
+        dargalpy=dargalpy.__main__:main
     
